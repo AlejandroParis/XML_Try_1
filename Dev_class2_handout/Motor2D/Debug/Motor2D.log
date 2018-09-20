@@ -1,0 +1,25 @@
+﻿  j1Main.cpp
+  j1App.cpp
+  j1Audio.cpp
+  j1Input.cpp
+  j1Scene.cpp
+  p2Log.cpp
+  j1Render.cpp
+  j1Textures.cpp
+  j1Window.cpp
+c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(37): error C2228: el operando izquierdo de '.as_int' debe tener class/struct/union
+  c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(37): note: el tipo es 'const pugi::char_t *'
+c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(38): error C2228: el operando izquierdo de '.as_uint' debe tener class/struct/union
+  c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(38): note: el tipo es 'const pugi::char_t *'
+c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(39): error C2228: el operando izquierdo de '.as_uint' debe tener class/struct/union
+  c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(39): note: el tipo es 'const pugi::char_t *'
+c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(41): error C2228: el operando izquierdo de '.as_bool' debe tener class/struct/union
+  c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(41): note: el tipo es 'const pugi::char_t *'
+c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(46): error C2228: el operando izquierdo de '.as_bool' debe tener class/struct/union
+  c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(46): note: el tipo es 'const pugi::char_t *'
+c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(51): error C2228: el operando izquierdo de '.as_bool' debe tener class/struct/union
+  c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(51): note: el tipo es 'const pugi::char_t *'
+c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(56): error C2228: el operando izquierdo de '.as_bool' debe tener class/struct/union
+  c:\users\alejandro\desktop\dev_class2_handout\motor2d\j1window.cpp(56): note: el tipo es 'const pugi::char_t *'
+  pugixml.cpp
+  Generando código...
